@@ -10,4 +10,14 @@
 > Some cheat developers will sign or publish their executable, some cheat or malware developers will obfuscate their code. Either or, MsMpEng.exe is likely to have traces of the signature or flag of the executable that was ran on the system.
 
 ### Steps
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+1. Open up System Informer (or your application of choice, but it's very important that the application you use has kernel-level privileges)
+
+[image here]
+
+2. Once open, filter or search for the process name. In this case, MsMpEng.exe
+
+[image here]
+
+3. Open the properties of the process. Easiest way of doing this is double clicking the process, or right clicking, then finding the "Properties" button.
+
+[image]
