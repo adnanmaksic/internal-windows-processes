@@ -20,8 +20,7 @@
 ![img](img/3.png)
 
 > 4. You'll be prompted a new window, the properties window. In this window, you should see the memory tab. Click it once to display the base address, types, size, and other properties of memory in MsMpEng.exe
-
-![img](img/4.pn)
+![img](img/4.png)
 
 > 5. Now, we want to click the "Strings" option which will prompt a new window. In the window, we should edit the filters for the string search. Ensure that the minimum length is 4, and ensure that the only checked boxes are 'Detect Unicode', 'Private', 'Image', and 'Mapped'
 ![img](img/5.png)
