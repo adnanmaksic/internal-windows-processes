@@ -3,7 +3,7 @@
 **NOTE: You need a kernel driver to read and or write memory from this process. The easiest way to do this is to enable the option in System Informer and run in administrator, or install Process Hacker 2 (as by default, it has it enabled).
 
 ### Explanation
-> MsMpEng.exe resides as a core process within Windows Defender, the pre-installed antimalware on all Windows systems. This process actively scans files, memory, and network activity.
+> MsMpEng.exe resides as a core process within Windows for Windows Defender, the pre-installed antimalware on all Windows systems. This process actively scans files, memory, and network activity.
 
 > More likely then not, unless disabled, or using another antimalware software: if a person is going to run an executable, whether a cheat for a game, or malware, MsMpEng.exe will scan the file.
 
@@ -33,4 +33,5 @@
 
 ### Additional Notes
 > Note that if I hadn't ran the executable from the time frame I start my computer and logon, nothing would've shown as the process wouldn't have to scan the file and it's signatures. Important to note also, the name of the publisher does not change unless the developer finds a way to spoof it for everytime their program is downloaded or compiled. This means that if person A, person B, and person C both have 'Process Hacker 2', the publisher's name is going to be the same. This applies the same way to cheat executables and or malware if signed.
+
 ![img](img/8.png)
