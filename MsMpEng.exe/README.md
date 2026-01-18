@@ -10,7 +10,7 @@
 > Some cheat developers will digitally sign their executable and obtain a code-signing certificate. MsMpEng.exe is likely to have traces of the signature or flag of the executable that was ran on the system.
 
 ### Steps
-> 1. Open up System Informer (or your application of choice, but it's very important that the application you use has kernel-level privileges)
+> 1. Open up System Informer (or your application of choice, but it's very important that the application used kernel-level)
 ![img](img/1.png)
 
 > 2. Once open, filter or search for the process name. In this case, MsMpEng.exe
@@ -20,7 +20,8 @@
 ![img](img/3.png)
 
 > 4. You'll be prompted a new window, the properties window. In this window, you should see the memory tab. Click it once to display the base address, types, size, and other properties of memory in MsMpEng.exe
-![img](img/4.png)
+
+![img](img/4.pn)
 
 > 5. Now, we want to click the "Strings" option which will prompt a new window. In the window, we should edit the filters for the string search. Ensure that the minimum length is 4, and ensure that the only checked boxes are 'Detect Unicode', 'Private', 'Image', and 'Mapped'
 ![img](img/5.png)
@@ -32,5 +33,5 @@
 ![img](img/7a.png) ![img](img/7b.png)
 
 ### Additional Notes
-> Note that if I hadn't ran the executable, nothing would've shown as the process wouldn't have to scan the file and it's signatures. Important to note also, the name of the publisher does not change unless the developer finds a way to spoof it for everytime their program is downloaded or compiled. This means that if person A, person B, and person C both have 'Process Hacker 2', the publisher's name is going to be the same. This applies the same way to cheat executables and or malware if signed.
+> Note that if I hadn't ran the executable from the time frame I start my computer and logon, nothing would've shown as the process wouldn't have to scan the file and it's signatures. Important to note also, the name of the publisher does not change unless the developer finds a way to spoof it for everytime their program is downloaded or compiled. This means that if person A, person B, and person C both have 'Process Hacker 2', the publisher's name is going to be the same. This applies the same way to cheat executables and or malware if signed.
 ![img](img/8.png)
