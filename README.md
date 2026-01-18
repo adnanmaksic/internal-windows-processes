@@ -12,10 +12,15 @@
 	Process Monitor, Process Explorer, AutoRuns, x64dbg, Cheat Engine, or create a script that 
 	scans for strings in a process.
 
+	You'll see constant and subtle updates as I recall information or discover new information.
+
 ## Navigating the Directory
 	Each file contains one of the following:
-	- An explanation of the internal process and a report of how to detect
+	- An explanation of the internal process and a report.
 	- Subdirectory of an internal process with a separate explanation of each.
+
+## Tool Usage
+	I'll make a separate repository and link in here after I've eventually made a substainable amount of progress here.
 
 ## Tools Mentioned
 [System Informer](https://github.com/winsiderss/systeminformer/)
@@ -23,6 +28,5 @@
 [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 
 [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
-
 
 [x64dbg](https://x64dbg.com/)
