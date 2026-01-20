@@ -14,7 +14,7 @@
 	- An explanation of the internal process and a report of how to detect
 	- Subdirectory of an internal process with a separate explanation of each.
 
-### Recommended Tools Mentioned
+### Recommended Tools
 [System Informer](https://github.com/winsiderss/systeminformer/)
 
 [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
@@ -22,6 +22,7 @@
 [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
 
 [x64dbg](https://x64dbg.com/)
+
 
 
 
