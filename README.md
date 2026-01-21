@@ -1,7 +1,7 @@
 ### Introduction - Windows Internal Processes
 > Windows internal proccesses are as the name suggests, and are fundamental to how the operating system runs executables, store information, and manage a variety of resources.
 
-> I "discovered" these through detecting cheats for certain games like Grand Theft Auto 5, Minecraft, Among Us, and a variety of other games. Of course, I quote, discovered, because this has been done by others as well. If you see any issues, or would like to add additional information, feel free create an post in the "Issues" tab.
+> I "discovered" these through detecting cheats for a variety of games, and occasionally, detecting traces of malware. Of course, I quote, discovered, because this has been done by others. If you see any issues, or would like to add additional information, feel free create an post in the "Issues" tab.
 
 > These contain my reports of how each process stores different information that can be leveraged for good.
 
@@ -22,6 +22,7 @@
 [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
 
 [x64dbg](https://x64dbg.com/)
+
 
 
 
